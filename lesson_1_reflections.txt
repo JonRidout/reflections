@@ -1,0 +1,3 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Showed only what had been changed which narrows down the places that the typo could have been introduced
